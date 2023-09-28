@@ -23,14 +23,20 @@ site_name: "Guia de intro a web"
 site_url: https://github.com/Insper/guia-intro-a-web
 site_author: Willian Lima, Victor Tavais
 site_description: >-
-    Introdução á conceitos de linguagens de programação e linguagens de marcação;
-    Conceito básico de construção de páginas web;
+    
+    Conceitos básicos de construção de páginas web
+
 # Repository
 repo_name: insper.github.io/guia-intro-a-web
 repo_url: https://github.com/wiiro/guia-intro-a-web
 
 # Copyright
 copyright: Copyright &copy; 2023 - Willian Lima
+
+# Page tree
+nav:
+  - Home: index.md
+  - Windows: guia-informatica/index.md
 
 # Configuration
 theme:
@@ -184,12 +190,5 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-# Page tree
-nav:
-  - Home: index.md
-  - Slides: slides/index.md
-  - Windows: guia-informatica/index.md
-  - MacOS: guia-informatica/guia-macos.md
-  
 
  
