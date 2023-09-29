@@ -2,52 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/Insper/guia-intro-a-web/</loc>
-         <lastmod>2023-09-28</lastmod>
+         <lastmod>2023-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/Insper/guia-intro-a-web/license/</loc>
-         <lastmod>2023-09-28</lastmod>
+         <lastmod>2023-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/Insper/guia-intro-a-web/adicional/</loc>
-         <lastmod>2023-09-28</lastmod>
+         <lastmod>2023-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/Insper/guia-intro-a-web/guia-informatica/</loc>
-         <lastmod>2023-09-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/Insper/guia-intro-a-web/guia-informatica/guia-macos/</loc>
-         <lastmod>2023-09-28</lastmod>
+         <lastmod>2023-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/Insper/guia-intro-a-web/guia-informatica/index_old/</loc>
-         <lastmod>2023-09-28</lastmod>
+         <lastmod>2023-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/Insper/guia-intro-a-web/projetos/0.Cloud_Intro/</loc>
-         <lastmod>2023-09-28</lastmod>
+         <lastmod>2023-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/Insper/guia-intro-a-web/projetos/changelog/</loc>
-         <lastmod>2023-09-28</lastmod>
+         <lastmod>2023-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/Insper/guia-intro-a-web/projetos/projeto_2022/</loc>
-         <lastmod>2023-09-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/Insper/guia-intro-a-web/qualquercoisa/</loc>
-         <lastmod>2023-09-28</lastmod>
+         <lastmod>2023-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
