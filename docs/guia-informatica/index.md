@@ -155,6 +155,73 @@ Teste o link abaixo:
 ```
 <a href="instagram.com">
 ```
+## Tag de imagem ``<img>``
+
+Esta tag é responsável em adicionar uma imagem dentro do corpo do seu documento HTML. Sempre defina dentro desta tag o elemento ``src`` para ajustar a origem da imagem.
+
+Teste com o código abaixo:
+
+```
+<img src="https://i.pinimg.com/originals/88/50/02/88500233da169d754a9ffdaaccf53785.png">
+
+```
+## Tag de entrada ``<input>``
+
+Esta tag cria um campo de entrada de dados para o usuário. Dentro de um formulário, este é o campo mais utilizado.
+
+o elemento ``type`` pode definir diversos tipos de inputs. Teste com o código abaixo:
+
+Junto de uma tag ``<input>``, crie uma tag ``<label>`` para criar uma descrição para cada campo. Esta descrição é útil por ser lidas por aplicações Screen Readers em voz alta quando o elemento for marcado, por exemplo. Conecte uma ``<label>`` a um ``<input>`` com o elemento ``for`` no primeiro, e ``id`` no útlimo.
+```
+<label for="button"> Sou o Label do botão</label>
+<input type="button" id="button">
+
+
+<input type="checkbox" id="checkbox">
+
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text"> (default value)
+<input type="time">
+<input type="url">
+<input type="week">
+
+<br>
+
+<label for="checkbox"> Sou o Label da checkbox !!!</label>
+
+```
+
+## Tag de botão ``<button>``
+
+Esta tag define um botão clicável na sua página.
+
+Dentro da tag ``<button>`` podemos inserir um texto(e algumas tags, como ``<img>``). Sempre que criar um botão desta forma, defina o elemento ``type``, que pode receber os tipos ``button``,``reset`` e ``submit``.
+
+Teste com os códigos abaixo:
+```
+<button type="button"> Eu sou um botão </button>
+
+<button type="button"> sou um botão também <img src="https://www.pngmart.com/files/22/Clothes-Button-Transparent-Background.png">
+</button>
+
+
+```
+
 
 # CSS: Introdução
 
