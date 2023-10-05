@@ -36,7 +36,7 @@ copyright: Copyright &copy; 2023 - Willian Lima
 # Page tree
 nav:
   - Home: index.md
-  - Windows: guia-informatica/index.md
+  - Guia Web: guia-Web/index.md
 
 # Configuration
 theme:
