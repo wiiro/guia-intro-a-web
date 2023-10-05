@@ -169,9 +169,9 @@ Teste com o código abaixo:
 
 Esta tag cria um campo de entrada de dados para o usuário. Dentro de um formulário, este é o campo mais utilizado.
 
-o elemento ``type`` pode definir diversos tipos de inputs. Teste com o código abaixo:
-
 Junto de uma tag ``<input>``, crie uma tag ``<label>`` para criar uma descrição para cada campo. Esta descrição é útil por ser lidas por aplicações Screen Readers em voz alta quando o elemento for marcado, por exemplo. Conecte uma ``<label>`` a um ``<input>`` com o elemento ``for`` no primeiro, e ``id`` no útlimo.
+
+o elemento ``type`` pode definir diversos tipos de inputs. Teste com o código abaixo:
 ```
 <label for="button"> Sou o Label do botão</label>
 <input type="button" id="button">
